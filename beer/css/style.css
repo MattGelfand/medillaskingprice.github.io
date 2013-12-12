@@ -83,6 +83,7 @@ img.logo {
 	position: absolute;
 	display: none;
 	margin-left:20px;
+	right:325px;
 	/*right: 322px;*/
 	/*background-color: rgba(255, 255, 255, 0.5);*/
 }
